@@ -9,7 +9,7 @@ Este espacio es un registro de mi proceso de aprendizaje, desde proyectos univer
 ### 🛠️ Tecnologías en uso
 * **Backend & Lógica:** Python, Java, C++, SQL.
 * **IA & Data:** Implementación de APIs (OpenAI), análisis de datos y modelado.
-* **Seguridad & IoT:** Auditoría de sistemas (IT/OT) y desarrollo con Arduino.
+* **Seguridad & IoT:** Practicante de auditoría de sistemas (IT/OT) y desarrollo con Arduino.
 
 ### 📂 Repositorios Destacados
 * **[Mishi-HealthTech](https://github.com/KaledSML/Mishi-HealthTech-App):** Integración de Unity3D y OpenAI API.
