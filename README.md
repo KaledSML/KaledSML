@@ -12,10 +12,10 @@ Este espacio es un registro de mi proceso de aprendizaje, desde proyectos univer
 * **Seguridad & IoT:** Auditoría de sistemas (IT/OT) y desarrollo con Arduino.
 
 ### 📂 Repositorios Destacados
-* **[Mishi-HealthTech](LINK):** Integración de Unity3D y OpenAI API.
-* **[Caso Veranum](LINK):** Arquitectura de software para gestión hotelera.
-* **[SPMG](LINK):** Lógica de sensores y seguridad física.
-* **[Python-Problem-Solving](LINK):** Mi proceso en CodeWars (Katas) y otros.
+* **[Mishi-HealthTech](https://github.com/KaledSML/Mishi-HealthTech-App):** Integración de Unity3D y OpenAI API.
+* **[Caso Veranum](https://github.com/KaledSML/veranum-website):** Arquitectura de software para gestión hotelera.
+* **[SPMG](https://github.com/KaledSML/SPMG-Arduino-Safety-System):** Lógica de sensores y seguridad física.
+* **[Python-Problem-Solving](https://github.com/KaledSML/pymenton-edtech-platform):** Mi proceso en CodeWars (Katas) y otros.
 
 ---
 
