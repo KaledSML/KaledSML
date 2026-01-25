@@ -2,7 +2,7 @@
 
 Ingeniera Informática dedicada a la construcción de soluciones técnicas con enfoque en **Seguridad**, **IA** y **Tecnología con Propósito**. 
 
-Este espacio es un registro de mi proceso de aprendizaje, desde proyectos universitarios galardonados hasta desafíos de algoritmia.
+Este espacio es un registro de mi proceso de aprendizaje, desde proyectos universitarios hasta desafíos de algoritmia.
 
 ---
 
@@ -17,6 +17,3 @@ Este espacio es un registro de mi proceso de aprendizaje, desde proyectos univer
 * **[SPMG](https://github.com/KaledSML/SPMG-Arduino-Safety-System):** Lógica de sensores y seguridad física.
 * **[Python-Problem-Solving](https://github.com/KaledSML/pymenton-edtech-platform):** Mi proceso en CodeWars (Katas) y otros.
 
----
-
-📫 **Contacto técnico:** [kaledsanmartinlastra@gmail.com](mailto:kaledsanmartinlastra@gmail.com)
