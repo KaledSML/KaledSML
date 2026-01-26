@@ -15,5 +15,5 @@ Este espacio es un registro de mi proceso de aprendizaje, desde proyectos univer
 * **[Mishi-HealthTech](https://github.com/KaledSML/Mishi-HealthTech-App):** Integración de Unity3D y OpenAI API.
 * **[Caso Veranum](https://github.com/KaledSML/veranum-website):** Arquitectura de software para gestión hotelera.
 * **[SPMG](https://github.com/KaledSML/SPMG-Arduino-Safety-System):** Lógica de sensores y seguridad física.
-* **[Python-Problem-Solving](https://github.com/KaledSML/Ejercicios-de-analisis-de-datos/tree/main):** Mi proceso en el analisis de datos utilizando Google Colab.
+* **[Ejercicios-de-analisis-de-datos](https://github.com/KaledSML/Ejercicios-de-analisis-de-datos/tree/main):** Mi proceso en el analisis de datos utilizando Google Colab.
 
