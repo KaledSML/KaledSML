@@ -113,7 +113,7 @@ Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades<
 <summary><b>🌍 [ CONEXIONES_Y_LOGS ]</b></summary>
 <br />
 <ul>
-  <li><b>Perfil Global:</b> Políglota en formación (Español <code>Nativo</code> | Francés <code>Pitch</code> | Inglés | 中文 <code>Estudio</code>).</li>
+  <li><b>Perfil Global:</b> Políglota en formación (Español <code>Nativo</code> | Francés | Inglés | 中文 .</li>
   <li><b>Liderazgo:</b> Gestión de equipos basada en la empatía y la identificación de fortalezas individuales.</li>
   <li><b>Privacidad:</b> Defensora de la sobriedad digital; mi valor profesional reside en la excelencia técnica.</li>
 </ul>
