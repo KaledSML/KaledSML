@@ -1,9 +1,9 @@
 # 🐯 `// KALED_SML` 
 ### *Ingeniería Informática · Data Science · Estrategia de Bienestar*
 
-¡Hola! Soy Kaled. Mi enfoque profesional se basa en **humanizar la tecnología**. Creo que la ingeniería debe ser un puente hacia el bienestar y la equidad, priorizando siempre la seguridad y la privacidad del usuario por encima de la exposición.
+¡Hola! Soy Kaled. Mi enfoque profesional se basa en humanizar la tecnología. Creo que la ingeniería debe ser un puente hacia el bienestar y la equidad, priorizando la Seguridad por Diseño (Privacy by Design) por encima de la sobreexposición de datos.
 
-Poseo una capacidad natural para la escucha activa y el diagnóstico de necesidades, lo que me permite transformar problemas complejos en soluciones estructuradas (desde diagramas conceptuales hasta flujos de trabajo en Trello) manteniendo siempre una visión pragmática orientada a la eficiencia y la entrega de valor real.
+Poseo una capacidad natural para el diagnóstico estratégico de necesidades, lo que me permite transformar problemas complejos en soluciones estructuradas (desde arquitecturas de sistemas hasta gestión ágil de proyectos), manteniendo siempre una visión pragmática orientada a la eficiencia y la entrega de valor real.
 
 ---
 
