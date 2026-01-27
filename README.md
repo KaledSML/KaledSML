@@ -1,52 +1,42 @@
-# 🎋 Kaled | Ingeniera Informática & Estratéga de Datos 👋
+# 🐯 `// KALED_SML` 
+### *Ingeniería Informática · Data Science · Estrategia de Bienestar*
 
-> **"La tecnología debe estar siempre al servicio de la humanidad."**  
-Ingeniera apasionada por la intersección entre la **Ciberseguridad**, la **Analítica Predictiva** y el **Bienestar Social**. Mi enfoque combina el rigor de la auditoría con la creatividad del diseño y la resiliencia de las artes internas.
+¡Hola! Soy Kaled. Mi enfoque profesional se basa en **humanizar la tecnología**. Creo que la ingeniería debe ser un puente hacia el bienestar y la equidad, priorizando siempre la seguridad y la privacidad del usuario por encima de la exposición.
 
----
-
-## 🌍 Perfil Global e Idiomas
-Mi meta es ser políglota y trabajar en entornos internacionales que me permitan conectar culturas.
-*   **🗣️ Idiomas:** Español (Nativo) | Francés (Pitch Técnico) | Inglés (Conversacional) | 中文 (Básico/Estudio) | Italiano (Comprensión Profesional).
-*   **✨ Curiosidad Cultural:** Estudiante de Medicina China, Fitoterapia y practicante de **Qigong Shaolin**; disciplinas que mantienen mi enfoque y centro en el desarrollo de software.
+Poseo una capacidad natural para la **escucha activa y el diagnóstico de necesidades**, lo que me permite transformar problemas complejos en soluciones estructuradas (desde diagramas conceptuales hasta flujos de trabajo en Trello) manteniendo siempre una visión pragmática y centrada en el presente.
 
 ---
 
-## 🛠️ Mi Stack Tecnológico & Expertise
-
-| Categoría | Tecnologías y Frameworks |
-| :--- | :--- |
-| **Data Science** | 🐍 `Python` `Pandas` `Scikit-Learn` `Matplotlib` `Análisis Predictivo` |
-| **Auditoría & Seguridad** | 🛡️ `NIST Framework` `Auditoría TI` `ISO 27701` `Ciberseguridad` |
-| **Desarrollo & IA** | 🎮 `Unity3D` `OpenAI API` `C#` `WordPress` `NLP` |
-| **Gestión & Liderazgo** | ⚙️ `PMBOK` `IEEE 830` `Kanban (Trello)` `Design Thinking` |
+### 🛠️ `[ TECH_STACK ]`
+**Data Science & IA:** 🐍 `Python` | `Pandas` | `Scikit-Learn` | `Matplotlib` | `OpenAI API` | `NLP`  
+**Seguridad & Gestión:** 🛡️ `Auditoría TI` | `NIST Framework` | `ISO 27001` | `NERC Framework` | `IEEE 830`  | `PMBOK` 
+**Desarrollo & Diseño:** 🎮 `Unity3D` | `C#` | `SQL Server` | `MySQL` | `WordPress` | `Adobe Suite`| `Java`| `NetBeans`| 
 
 ---
 
-## 📂 Ecosistema de Proyectos Destacados
-
-### 🐾 [Mishi-HealthTech-App](./Mishi-HealthTech-App) 
-**1er Lugar NTT DATA/UBO | Semifinalista Internacional AUF.**  
-Ecosistema de bienestar estudiantil inmersivo. Es mi "Hero Project" donde unifico IA, ética de datos y gamificación para generar un impacto social real.
-
-### 🧪 [Applied-Data-Science](./Applied-Data-Science)
-Analítica avanzada para la toma de decisiones:
-*   ☀️ **Predicción Solar:** Optimización energética con **93.6% de precisión**.
-*   💧 **Potabilidad del Agua:** Clasificación multivariante con **89% de acierto**.
-
-### 🏛️ [Soluciones de Ingeniería](./)
-*   🛡️ **[SPMG Arduino](./SPMG-Arduino-Safety-System):** Prevención de accidentes domésticos mediante hardware embebido.
-*   🏨 **[Veranum](./veranum-hotel-management) & 🌶️ [Pymenton](./pymenton-edtech-platform):** Transformación digital y EdTech inclusiva.
+### 🕹️ `[ SISTEMA_OPERATIVO ]`
+*   **🧠 Mente:** Disciplina de **Qigong Shaolin** y enfoque **Kaizen**. Gestión del estrés y claridad estratégica.
+*   **🎨 Alma:** Base en **Diseño Gráfico** y **Gastronomía**. Detallista en la ejecución y orientada a la experiencia del usuario.
+*   **🛡️ Escudo:** Experiencia en **Auditoría TI** (Ex-Practicante de Auditoría en Enel). Compromiso con la ética de datos y la ciberseguridad.
 
 ---
 
-## 🧠 Metodología de Trabajo
-Ante un desafío "imposible", mi proceso es:
-1.  **Desglose Estratégico:** Uso de Trello y lluvia de ideas visual para mapear el panorama completo.
-2.  **Liderazgo Empático:** Designación de roles basada en las fortalezas individuales (habilidad pulida en mi formación gastronómica).
-3.  **Filosofía Kaizen:** Mejora continua, resiliencia y resguardo de la integridad de la información.
+### 📂 `[ PROYECTOS_SELECCIONADOS ]`
+*   🐾 **[Mishi HealthTech](./Mishi-HealthTech-App):** Tesis galardonada. IA y gamificación para el soporte de salud mental.
+*   🧪 **[Applied Data Science](./Applied-Data-Science):** Modelado predictivo de alta fidelidad (Energía y Salud).
+*   🛡️ **[SPMG Arduino](./arduino-gas-safety-system):** Hardware preventivo para la integridad del hogar.
+*   🌶️ **[Pymenton EdTech](./pymenton-edtech-platform):** Framework de inclusión digital para el emprendimiento local.
 
 ---
-> [!TIP]
-> *"Busco oportunidades en empresas internacionales donde mi curiosidad, habilidades de auditoría y visión altruista puedan ayudar a construir un futuro digital más seguro y humano."*
+
+### 🌍 `[ CONEXIONES_Y_LOGS ]`
+*   **Perfil Global:** Políglota en formación (Español `Nativo` | Francés `Pitch` | Inglés | 中文 `Estudio`).
+*   **Liderazgo:** Gestión de equipos basada en la empatía y la identificación de fortalezas individuales.
+*   **Privacidad:** Defensora de la sobriedad digital; mi valor profesional reside en la excelencia técnica.
+
+---
+
+> *"Existen dos errores en el camino a la maestría: no empezar y no llegar hasta el final."* — **Shi Heng Yi**
+
+---
 
