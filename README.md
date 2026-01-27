@@ -1,43 +1,78 @@
-# 🐯 `// KALED_SML` 
-### *Ingeniería Informática · Data Science · Estrategia de Bienestar*
+<div align="center">
+  <h1>🐯 <code>// KALED_SML</code></h1>
+  <p><strong>Software Engineer | Data & Privacy Advocate | Wellness Strategist</strong></p>
 
-¡Hola! Soy Kaled. Mi enfoque profesional se basa en humanizar la tecnología. Creo que la ingeniería debe ser un puente hacia el bienestar y la equidad, priorizando la Seguridad por Diseño (Privacy by Design) por encima de la sobreexposición de datos.
+  <!-- BADGES CORREGIDAS -->
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</div>
 
-Poseo una capacidad natural para el diagnóstico estratégico de necesidades, lo que me permite transformar problemas complejos en soluciones estructuradas (desde arquitecturas de sistemas hasta gestión ágil de proyectos), manteniendo siempre una visión pragmática orientada a la eficiencia y la entrega de valor real.
+<br />
 
----
-
-### 🛠️ `[ TECH_STACK ]`
-**Data Science & IA:** 🐍 `Python` | `Pandas` | `Scikit-Learn` | `Matplotlib` | `OpenAI API` | `NLP`  
-**Seguridad & Gestión:** 🛡️ `Auditoría TI` | `NIST Framework` | `ISO 27001` | `NERC Framework` | `IEEE 830`  | `PMBOK`   
-**Desarrollo & Diseño:** 🎮 `Unity3D` | `C#` | `SQL Server` | `MySQL` | `WordPress` | `Adobe Suite`| `Java`| `NetBeans`| 
-
----
-
-### 🕹️ `[ SISTEMA_OPERATIVO ]`
-*   **🧠 Mente:** Disciplina de **Qigong Shaolin** y enfoque **Kaizen**. Gestión del estrés y claridad estratégica.
-*   **🎨 Alma:** Base en **Diseño Gráfico** y **Gastronomía**. Detallista en la ejecución y orientada a la experiencia del usuario.
-*   **🛡️ Escudo:** Experiencia en **Auditoría TI** (Ex-Practicante de Auditoría en Enel). Compromiso con la ética de datos y la ciberseguridad.
+<p align="center">
+  <i>"Humanizar la tecnología: Ingeniería con propósito, seguridad y bienestar."</i>
+</p>
 
 ---
 
-### 📂 `[ PROYECTOS_SELECCIONADOS ]`
-*   🐾 **[Mishi HealthTech App](https://github.com/KaledSML/Mishi-HealthTech-App):** Tesis galardonada. IA y gamificación para el soporte de salud mental.
-*   🧪 **[Applied Data Science](https://github.com/KaledSML/Applied-Data-Science):** Modelado predictivo de alta fidelidad (Energía y Salud).
-*   🛡️ **[SPMG Arduino Safety System](https://github.com/KaledSML/SPMG-Arduino-Safety-System):** Hardware preventivo para la integridad del hogar.
-*   🏨 **[Veranum Hotel Management](https://github.com/KaledSML/veranum-hotel-management):** Transformación digital y optimización de gestión hotelera 360°.
-*   🌶️ **[Pymenton EdTech Platform](https://github.com/KaledSML/pymenton-edtech-platform):** Framework de inclusión digital para el emprendimiento local.
+<details open>
+<summary><b>🧬 [ PERFIL_ESTRATÉGICO ]</b></summary>
+<br />
+¡Hola! Soy <b>Kaled</b>. Mi enfoque profesional se basa en <b>humanizar la tecnología</b>. Creo que la ingeniería debe ser un puente hacia el bienestar y la equidad, priorizando la <b>Seguridad por Diseño (Privacy by Design)</b> por encima de la sobreexposición de datos.
+
+Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades</b>, transformando problemas complejos en soluciones estructuradas con una visión pragmática orientada a la eficiencia.
+</details>
+
+<details>
+<summary><b>🛠️ [ TECH_STACK ]</b></summary>
+<br />
+<table>
+  <tr>
+    <td><b>Data & IA</b></td>
+    <td>🐍 <code>Python</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>NLP</code></td>
+  </tr>
+  <tr>
+    <td><b>Seguridad</b></td>
+    <td>🛡️ <code>NIST</code> <code>ISO 27001</code> <code>Auditoría TI</code> <code>PMBOK</code></td>
+  </tr>
+  <tr>
+    <td><b>Dev & Design</b></td>
+    <td>🎮 <code>Unity3D</code> <code>C#</code> <code>SQL</code> <code>MySQL</code> <code>Adobe</code></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>🕹️ [ SISTEMA_OPERATIVO ]</b></summary>
+<br />
+<ul>
+  <li><b>🧠 Mente:</b> Disciplina de <b>Qigong Shaolin</b> y enfoque <b>Kaizen</b>.</li>
+  <li><b>🎨 Alma:</b> Base en <b>Diseño Gráfico</b> y <b>Gastronomía</b>. Detallista en UX.</li>
+  <li><b>🛡️ Escudo:</b> Auditoría TI (Ex-Enel). Compromiso con la ética de datos.</li>
+</ul>
+</details>
+
+<details>
+<summary><b>📂 [ PROYECTOS_SELECCIONADOS ]</b></summary>
+<br />
+<ul>
+  <li>🐾 <b><a href="https://github.com">Mishi HealthTech App</a>:</b> IA y gamificación para salud mental.</li>
+  <li>🧪 <b><a href="https://github.com">Applied Data Science</a>:</b> Modelado predictivo de alta fidelidad.</li>
+  <li>🛡️ <b><a href="https://github.com">SPMG Arduino Safety System</a>:</b> Hardware preventivo doméstico.</li>
+  <li>🏨 <b><a href="https://github.com">Veranum Hotel Management</a>:</b> Transformación digital 360°.</li>
+  <li>🌶️ <b><a href="https://github.com">Pymenton EdTech Platform</a>:</b> Inclusión digital.</li>
+</ul>
+</details>
 
 ---
 
-### 🌍 `[ CONEXIONES_Y_LOGS ]`
-*   **Perfil Global:** Políglota en formación (Español `Nativo` | Francés `Pitch` | Inglés | 中文 `Estudio`).
-*   **Liderazgo:** Gestión de equipos basada en la empatía y la identificación de fortalezas individuales.
-*   **Privacidad:** Defensora de la sobriedad digital; mi valor profesional reside en la excelencia técnica.
-
----
-
-> *"Existen dos errores en el camino a la maestría: no empezar y no llegar hasta el final."* — **Shi Heng Yi**
-
----
-
+<div align="center">
+  <!-- ESTADÍSTICAS DINÁMICAS (Se cargan automáticamente) -->
+  <img src="https://github-readme-stats.vercel.app" width="400" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app" width="300" />
+  
+  <br /><br />
+  <blockquote><i>"Existen dos errores en el camino a la maestría: no empezar y no llegar hasta el final."</i> — <b>Shi Heng Yi</b></blockquote>
+</div>
