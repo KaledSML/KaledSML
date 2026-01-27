@@ -3,7 +3,7 @@
 
 ¡Hola! Soy Kaled. Mi enfoque profesional se basa en **humanizar la tecnología**. Creo que la ingeniería debe ser un puente hacia el bienestar y la equidad, priorizando siempre la seguridad y la privacidad del usuario por encima de la exposición.
 
-Poseo una capacidad natural para la **escucha activa y el diagnóstico de necesidades**, lo que me permite transformar problemas complejos en soluciones estructuradas (desde diagramas conceptuales hasta flujos de trabajo en Trello) manteniendo siempre una visión pragmática y centrada en el presente.
+Poseo una capacidad natural para la escucha activa y el diagnóstico de necesidades, lo que me permite transformar problemas complejos en soluciones estructuradas (desde diagramas conceptuales hasta flujos de trabajo en Trello) manteniendo siempre una visión pragmática orientada a la eficiencia y la entrega de valor real.
 
 ---
 
@@ -22,10 +22,11 @@ Poseo una capacidad natural para la **escucha activa y el diagnóstico de necesi
 ---
 
 ### 📂 `[ PROYECTOS_SELECCIONADOS ]`
-*   🐾 **[Mishi HealthTech](./Mishi-HealthTech-App):** Tesis galardonada. IA y gamificación para el soporte de salud mental.
-*   🧪 **[Applied Data Science](./Applied-Data-Science):** Modelado predictivo de alta fidelidad (Energía y Salud).
-*   🛡️ **[SPMG Arduino](./arduino-gas-safety-system):** Hardware preventivo para la integridad del hogar.
-*   🌶️ **[Pymenton EdTech](./pymenton-edtech-platform):** Framework de inclusión digital para el emprendimiento local.
+*   🐾 **[Mishi HealthTech App](https://github.com/KaledSML/Mishi-HealthTech-App):** Tesis galardonada. IA y gamificación para el soporte de salud mental.
+*   🧪 **[Applied Data Science](https://github.com/KaledSML/Applied-Data-Science):** Modelado predictivo de alta fidelidad (Energía y Salud).
+*   🛡️ **[SPMG Arduino Safety System](https://github.com/KaledSML/SPMG-Arduino-Safety-System):** Hardware preventivo para la integridad del hogar.
+*   🏨 **[Veranum Hotel Management](https://github.com/KaledSML/veranum-hotel-management):** Transformación digital y optimización de gestión hotelera 360°.
+*   🌶️ **[Pymenton EdTech Platform](https://github.com/KaledSML/pymenton-edtech-platform):** Framework de inclusión digital para el emprendimiento local.
 
 ---
 
