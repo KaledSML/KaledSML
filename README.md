@@ -1,8 +1,6 @@
 <div align="center">
-  
-  <!-- TÍTULO ANIMADO CORREGIDO -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=17115C&center=true&vCenter=true&width=435&lines=🐯+KALED_SML;Software+Engineer+%7C+Data+%26+Privacy;Wellness+Strategist" alt="Typing SVG" />
-
+  <!-- TÍTULO ANIMADO -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=17115C&center=true&vCenter=true&width=435&lines=🐯+KALED_SML;Software+Engineer+%7C+Data+%26+Privacy;+Wellness+Strategist" alt="Typing SVG" />
 </div>
 
 <br /><br />
@@ -11,9 +9,7 @@
   <i>"Humanizar la tecnología: Ingeniería con propósito, seguridad y bienestar."</i>
 </p>
 
-
 ---
-
 
 <details open>
 <summary><b>🧬 [ PERFIL_ESTRATÉGICO ]</b></summary>
@@ -28,39 +24,67 @@ Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades<
 <br />
 
 #### 🧪 Data Science & AI
-<img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=yellow" alt="Python" />
-<img src="https://img.shields.io/badge/R-4.3-brightpink?logo=R&logoColor=white" alt="R" />
-<img src="https://img.shields.io/badge/Pandas-2.1-green?logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-3.8-orange?logo=matplotlib&logoColor=white" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/ChatGPT-4o-blue?logo=openai&logoColor=white" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/Kaggle-Expert-yellow?logo=kaggle&logoColor=black" alt="Kaggle" />
+<img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/R-4.3-brightpink?logo=R&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-2.1-green?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/RStudio-2024-brightpink?logo=rstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-4o-blue?logo=openai&logoColor=white" />
 
-#### 🛡️ Seguridad & Sistemas
-<img src="https://img.shields.io/badge/Kali%20Linux-2024-red?logo=kali-linux&logoColor=white" alt="Kali" />
-<img src="https://img.shields.io/badge/Docker-27-blue?logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Cisco-CCNA-green?logo=cisco&logoColor=white" alt="Cisco" />
-<img src="https://img.shields.io/badge/Windows-11-blue?logo=microsoft&logoColor=white" alt="Windows" />
-<img src="https://img.shields.io/badge/Android-15-green?logo=android&logoColor=white" alt="Android" />
+#### 🛡️ Seguridad & Standards
+<img src="https://img.shields.io/badge/NIST-red?logo=nist&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO_27001-blue?logo=iso&logoColor=white" />
+<img src="https://img.shields.io/badge/NERC-blueviolet?logo=standards&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali-2024-red?logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Auditoria_TI-orange?logo=shield&logoColor=white" />
 
-#### 💻 Desarrollo & DB
-<img src="https://img.shields.io/badge/Java-21-orange?logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Unity-2023-grey?logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MSSQL-2022-blue?logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-<img src="https://img.shields.io/badge/WordPress-6.5-blue?logo=wordpress&logoColor=white" alt="WordPress" />
+#### 💻 Desarrollo & Hardware
+<img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/C++-20-blue?logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-Kotlin-green?logo=androidstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-21-orange?logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/NetBeans-22-yellow?logo=netbeans&logoColor=black" />
+<img src="https://img.shields.io/badge/Unity-2023-grey?logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-2.0-blue?logo=arduino&logoColor=white" />
 
-#### 🎨 Diseño & Productividad
-<img src="https://img.shields.io/badge/Figma-Design-pink?logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Photoshop-CC-purple?logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-<img src="https://img.shields.io/badge/Illustrator-CC-orange?logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
-<img src="https://img.shields.io/badge/Canva-Creative-blue?logo=canva&logoColor=white" alt="Canva" />
-<img src="https://img.shields.io/badge/Miro-Whiteboard-green?logo=miro&logoColor=black" alt="Miro" />
+#### 🛡️ Seguridad & Redes
+<img src="https://img.shields.io/badge/Packet%20Tracer-red?logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/NIST-red?logo=nist&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO_27001-blue?logo=iso&logoColor=white" />
+<img src="https://img.shields.io/badge/NERC-blueviolet?logo=standards&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali-2024-red?logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Auditoria_TI-orange?logo=shield&logoColor=white" />
 
-#### ⚙️ IDEs & Herramientas
-<img src="https://img.shields.io/badge/VSCode-1.87-blue?logo=visual-studio-code&logoColor=white" alt="VSCode" />
-<img src="https://img.shields.io/badge/PyCharm-2024-blue?logo=pycharm&logoColor=white" alt="PyCharm" />
-<img src="https://img.shields.io/badge/RStudio-2024-brightpink?logo=rstudio&logoColor=white" alt="RStudio" />
-<img src="https://img.shields.io/badge/NetBeans-22-yellow?logo=netbeans&logoColor=black" alt="NetBeans" />
+#### 📊 Gestión & Metodologías
+<img src="https://img.shields.io/badge/UML-C4-purple?logo=uml&logoColor=white" />
+<img src="https://img.shields.io/badge/Scrum-Certified-brightgreen?logo=scrum&logoColor=white" />
+<img src="https://img.shields.io/badge/Kanban-Lean-blue?logo=kanban&logoColor=white" />
+<img src="https://img.shields.io/badge/PMBOK-7th-purple?logo=project-management&logoColor=white" />
+<img src="https://img.shields.io/badge/IEEE_830-blue?logo=ieee&logoColor=white" />
+
+
+
+#### 🎨 Adobe & Office Suite
+<img src="https://img.shields.io/badge/Photoshop-CC-purple?logo=adobe-photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-CC-orange?logo=adobe-illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/InDesign-CC-pink?logo=adobe-indesign&logoColor=white" />
+<img src="https://img.shields.io/badge/Dreamweaver-CC-blue?logo=adobe-dreamweaver&logoColor=white" />
+<img src="https://img.shields.io/badge/Office-365-green?logo=microsoft-office&logoColor=white" />
+
+#### 🏃‍♂️ Metodologías Ágiles & Gestión
+<img src="https://img.shields.io/badge/Scrum-Certified-brightgreen?logo=scrum&logoColor=white" />
+<img src="https://img.shields.io/badge/Kanban-Lean-blue?logo=kanban&logoColor=white" />
+<img src="https://img.shields.io/badge/PMBOK-7th-purple?logo=project-management&logoColor=white" />
+<img src="https://img.shields.io/badge/IEEE_830-blue?logo=ieee&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-orange?logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Asana-blue?logo=asana&logoColor=white" />
+<img src="https://img.shields.io/badge/Miro-green?logo=miro&logoColor=black" />
+
+#### ⚙️ IDEs & Productividad
+<img src="https://img.shields.io/badge/VSCode-1.87-blue?logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-2024-blue?logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-pink?logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-6.5-blue?logo=wordpress&logoColor=white" />
+
 </details>
 
 <details>
@@ -69,7 +93,7 @@ Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades<
 <ul>
   <li><b>🧠 Mente:</b> Disciplina de <b>Qigong Shaolin</b> y enfoque <b>Kaizen</b>.</li>
   <li><b>🎨 Alma:</b> Base en <b>Diseño Gráfico</b> y <b>Gastronomía</b>. Detallista en UX.</li>
-  <li><b>🛡️ Escudo:</b> Auditoría TI (Ex-Enel). Compromiso con la ética de datos.</li>
+  <li><b>🛡️ Escudo:</b> Auditoría TI. Compromiso con la ética de datos.</li>
 </ul>
 </details>
 
@@ -85,4 +109,19 @@ Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades<
 </ul>
 </details>
 
+<details>
+<summary><b>🌍 [ CONEXIONES_Y_LOGS ]</b></summary>
+<br />
+<ul>
+  <li><b>Perfil Global:</b> Políglota en formación (Español <code>Nativo</code> | Francés <code>Pitch</code> | Inglés | 中文 <code>Estudio</code>).</li>
+  <li><b>Liderazgo:</b> Gestión de equipos basada en la empatía y la identificación de fortalezas individuales.</li>
+  <li><b>Privacidad:</b> Defensora de la sobriedad digital; mi valor profesional reside en la excelencia técnica.</li>
+</ul>
+</details>
+
 ---
+
+<div align="center">
+  <br /><br />
+  <blockquote><i>"Existen dos errores en el camino a la maestría: no empezar y no llegar hasta el final."</i> — <b>Shi Heng Yi</b></blockquote>
+</div>
