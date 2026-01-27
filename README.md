@@ -91,9 +91,9 @@ Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades<
 <summary><b>🕹️ [ SISTEMA_OPERATIVO ]</b></summary>
 <br />
 <ul>
-  <li><b>🧠 Mente:</b> Disciplina de <b>Qigong Shaolin</b> y enfoque <b>Kaizen</b>.</li>
-  <li><b>🎨 Alma:</b> Base en <b>Diseño Gráfico</b> y <b>Gastronomía</b>. Detallista en UX.</li>
-  <li><b>🛡️ Escudo:</b> Auditoría TI. Compromiso con la ética de datos.</li>
+  <li><b>🧠 Mente:</b> Disciplina de <b>Qigong Shaolin</b> y enfoque <b>Kaizen</b>. Gestión del estrés y claridad estratégica.</li>
+  <li><b>🎨 Alma:</b> Base en <b>Diseño Gráfico</b> y <b>Gastronomía</b>. Detallista en la ejecución y orientada a la experiencia del usuario..</li>
+  <li><b>🛡️ Escudo:</b> Auditoría TI (Ex-Practicante de Auditoría en Enel). Compromiso con la ética de datos y la ciberseguridad.</li>
 </ul>
 </details>
 
@@ -102,10 +102,10 @@ Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades<
 <br />
 <ul>
   <li>🐾 <b><a href="https://github.com/KaledSML/Mishi-HealthTech-App">Mishi HealthTech App</a>:</b> IA y gamificación para salud mental.</li>
-  <li>🧪 <b><a href="https://github.com/KaledSML/Applied-Data-Science">Applied Data Science</a>:</b> Modelado predictivo de alta fidelidad.</li>
+  <li>🧪 <b><a href="https://github.com/KaledSML/Applied-Data-Science">Applied Data Science</a>:</b> Modelado predictivo de alta fidelidad (Energía y Salud)</li>
   <li>🛡️ <b><a href="https://github.com/KaledSML/SPMG-Arduino-Safety-System">SPMG Arduino Safety System</a>:</b> Hardware preventivo doméstico.</li>
-  <li>🏨 <b><a href="https://github.com/KaledSML/veranum-hotel-management">Veranum Hotel Management</a>:</b> Transformación digital 360°.</li>
-  <li>🌶️ <b><a href="https://github.com/KaledSML/pymenton-edtech-platform">Pymenton EdTech Platform</a>:</b> Inclusión digital.</li>
+  <li>🏨 <b><a href="https://github.com/KaledSML/veranum-hotel-management">Veranum Hotel Management</a>:</b> Transformación digital y optimización de gestión hotelera 360°.</li>
+  <li>🌶️ <b><a href="https://github.com/KaledSML/pymenton-edtech-platform">Pymenton EdTech Platform</a>:</b> Inclusión digital para el emprendimiento local.</li>
 </ul>
 </details>
 
