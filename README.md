@@ -2,10 +2,11 @@
   <h1>🐯 <code>// KALED_SML</code></h1>
   <p><strong>Software Engineer | Data & Privacy Advocate | Wellness Strategist</strong></p>
 
-  <!-- BADGES CORREGIDAS -->
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+  <!-- Badges con logos y colores optimizados -->
+  <img src="https://img.shields.io" alt="Python" />
+  <img src="https://img.shields.io" alt="Data Science" />
+  <img src="https://img.shields.io" alt="Security" />
+  <img src="https://img.shields.io" alt="Kaizen" />
 </div>
 
 <br />
@@ -25,23 +26,25 @@ Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades<
 </details>
 
 <details>
-<summary><b>🛠️ [ TECH_STACK ]</b></summary>
+<summary><b>🛠️ [ TECH_STACK_COMPLETO ]</b></summary>
 <br />
-<table>
-  <tr>
-    <td><b>Data & IA</b></td>
-    <td>🐍 <code>Python</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>NLP</code></td>
-  </tr>
-  <tr>
-    <td><b>Seguridad</b></td>
-    <td>🛡️ <code>NIST</code> <code>ISO 27001</code> <code>Auditoría TI</code> <code>PMBOK</code></td>
-  </tr>
-  <tr>
-    <td><b>Dev & Design</b></td>
-    <td>🎮 <code>Unity3D</code> <code>C#</code> <code>SQL</code> <code>MySQL</code> <code>Adobe</code></td>
-  </tr>
-</table>
+
+#### 🧪 Data Science & AI
+![Python](https://img.shields.io) ![R](https://img.shields.io) ![Pandas](https://img.shields.io) ![Matplotlib](https://img.shields.io) ![ChatGPT](https://img.shields.io) ![Kaggle](https://img.shields.io)
+
+#### 🛡️ Seguridad & Sistemas
+![Kali](https://img.shields.io) ![Docker](https://img.shields.io) ![Cisco](https://img.shields.io) ![Windows](https://img.shields.io) ![Android](https://img.shields.io)
+
+#### 💻 Desarrollo & DB
+![Java](https://img.shields.io) ![Unity](https://img.shields.io) ![MySQL](https://img.shields.io) ![MSSQL](https://img.shields.io) ![WordPress](https://img.shields.io)
+
+#### 🎨 Diseño & Productividad
+![Figma](https://img.shields.io) ![Photoshop](https://img.shields.io) ![Illustrator](https://img.shields.io) ![Canva](https://img.shields.io) ![Miro](https://img.shields.io)
+
+#### ⚙️ IDEs & Herramientas
+![VSCode](https://img.shields.io) ![PyCharm](https://img.shields.io) ![RStudio](https://img.shields.io) ![NetBeans](https://img.shields.io)
 </details>
+
 
 <details>
 <summary><b>🕹️ [ SISTEMA_OPERATIVO ]</b></summary>
