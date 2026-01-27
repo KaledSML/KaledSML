@@ -2,10 +2,8 @@
   <h1>🐯 <code>// KALED_SML</code></h1>
   <p><strong>Software Engineer | Data & Privacy Advocate | Wellness Strategist</strong></p>
 
-  <!-- BADGES CORREGIDAS -->
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+  <!-- Badges de texto sólido (Fall-safe) -->
+  <code>Python</code> ⚡ <code>Data Science</code> ⚡ <code>CyberSecurity</code> ⚡ <code>Kaizen</code>
 </div>
 
 <br />
@@ -65,14 +63,23 @@ Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades<
 </ul>
 </details>
 
+<details>
+<summary><b>🌍 [ CONEXIONES_Y_LOGS ]</b></summary>
+<br />
+<ul>
+  <li><b>🌎 Perfil Global:</b> Español (N) | Francés (Pitch) | Inglés | Chino (Estudio).</li>
+  <li><b>🤝 Liderazgo:</b> Gestión basada en empatía y fortalezas individuales.</li>
+  <li><b>🔏 Privacidad:</b> Defensora de la sobriedad digital y la excelencia técnica.</li>
+</ul>
+</details>
+
 ---
 
 <div align="center">
-  <!-- ESTADÍSTICAS DINÁMICAS (Se cargan automáticamente) -->
-  <img src="https://github-readme-stats.vercel.app" width="400" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app" width="300" />
+  <h3>📊 [ ACTIVIDAD_Y_MÉTRICAS ]</h3>
+  <!-- Si las imágenes siguen sin cargar, este bloque de texto las reemplaza con estilo -->
+  <p>💻 Desarrollando soluciones con propósito y seguridad</p>
   
-  <br /><br />
+  <br />
   <blockquote><i>"Existen dos errores en el camino a la maestría: no empezar y no llegar hasta el final."</i> — <b>Shi Heng Yi</b></blockquote>
 </div>
