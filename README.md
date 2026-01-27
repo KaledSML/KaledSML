@@ -9,7 +9,7 @@ Poseo una capacidad natural para la escucha activa y el diagnóstico de necesida
 
 ### 🛠️ `[ TECH_STACK ]`
 **Data Science & IA:** 🐍 `Python` | `Pandas` | `Scikit-Learn` | `Matplotlib` | `OpenAI API` | `NLP`  
-**Seguridad & Gestión:** 🛡️ `Auditoría TI` | `NIST Framework` | `ISO 27001` | `NERC Framework` | `IEEE 830`  | `PMBOK` 
+**Seguridad & Gestión:** 🛡️ `Auditoría TI` | `NIST Framework` | `ISO 27001` | `NERC Framework` | `IEEE 830`  | `PMBOK`   
 **Desarrollo & Diseño:** 🎮 `Unity3D` | `C#` | `SQL Server` | `MySQL` | `WordPress` | `Adobe Suite`| `Java`| `NetBeans`| 
 
 ---
