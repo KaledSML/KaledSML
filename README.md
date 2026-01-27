@@ -2,8 +2,10 @@
   <h1>🐯 <code>// KALED_SML</code></h1>
   <p><strong>Software Engineer | Data & Privacy Advocate | Wellness Strategist</strong></p>
 
-  <!-- Badges de texto sólido (Fall-safe) -->
-  <code>Python</code> ⚡ <code>Data Science</code> ⚡ <code>CyberSecurity</code> ⚡ <code>Kaizen</code>
+  <!-- BADGES CORREGIDAS -->
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
 </div>
 
 <br />
@@ -55,31 +57,17 @@ Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades<
 <summary><b>📂 [ PROYECTOS_SELECCIONADOS ]</b></summary>
 <br />
 <ul>
-  <li>🐾 <b><a href="https://github.com">Mishi HealthTech App</a>:</b> IA y gamificación para salud mental.</li>
-  <li>🧪 <b><a href="https://github.com">Applied Data Science</a>:</b> Modelado predictivo de alta fidelidad.</li>
-  <li>🛡️ <b><a href="https://github.com">SPMG Arduino Safety System</a>:</b> Hardware preventivo doméstico.</li>
-  <li>🏨 <b><a href="https://github.com">Veranum Hotel Management</a>:</b> Transformación digital 360°.</li>
-  <li>🌶️ <b><a href="https://github.com">Pymenton EdTech Platform</a>:</b> Inclusión digital.</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🌍 [ CONEXIONES_Y_LOGS ]</b></summary>
-<br />
-<ul>
-  <li><b>🌎 Perfil Global:</b> Español (N) | Francés (Pitch) | Inglés | Chino (Estudio).</li>
-  <li><b>🤝 Liderazgo:</b> Gestión basada en empatía y fortalezas individuales.</li>
-  <li><b>🔏 Privacidad:</b> Defensora de la sobriedad digital y la excelencia técnica.</li>
+  <li>🐾 <b><a href="https://github.com/KaledSML/Mishi-HealthTech-App">Mishi HealthTech App</a>:</b> IA y gamificación para salud mental.</li>
+  <li>🧪 <b><a href="https://github.com/KaledSML/Applied-Data-Science">Applied Data Science</a>:</b> Modelado predictivo de alta fidelidad.</li>
+  <li>🛡️ <b><a href="https://github.com/KaledSML/SPMG-Arduino-Safety-System">SPMG Arduino Safety System</a>:</b> Hardware preventivo doméstico.</li>
+  <li>🏨 <b><a href="https://github.com/KaledSML/veranum-hotel-management">Veranum Hotel Management</a>:</b> Transformación digital 360°.</li>
+  <li>🌶️ <b><a href="https://github.com/KaledSML/pymenton-edtech-platform">Pymenton EdTech Platform</a>:</b> Inclusión digital.</li>
 </ul>
 </details>
 
 ---
 
 <div align="center">
-  <h3>📊 [ ACTIVIDAD_Y_MÉTRICAS ]</h3>
-  <!-- Si las imágenes siguen sin cargar, este bloque de texto las reemplaza con estilo -->
-  <p>💻 Desarrollando soluciones con propósito y seguridad</p>
-  
-  <br />
+  <br /><br />
   <blockquote><i>"Existen dos errores en el camino a la maestría: no empezar y no llegar hasta el final."</i> — <b>Shi Heng Yi</b></blockquote>
 </div>
