@@ -31,61 +31,36 @@ Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades<
 <img src="https://img.shields.io/badge/OpenAI-4o-blue?logo=openai&logoColor=white" />
 
 #### 🛡️ Seguridad & Standards
+<img src="https://img.shields.io/badge/NERC-blueviolet?logo=standards&logoColor=white" />
 <img src="https://img.shields.io/badge/NIST-red?logo=nist&logoColor=white" />
 <img src="https://img.shields.io/badge/ISO_27001-blue?logo=iso&logoColor=white" />
-<img src="https://img.shields.io/badge/NERC-blueviolet?logo=standards&logoColor=white" />
+<img src="https://img.shields.io/badge/SC-900-blue?logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali-2024-red?logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Packet%20Tracer-red?logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Auditoria_TI-orange?logo=shield&logoColor=white" />
 
 #### 💻 Desarrollo & Hardware
-<img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=yellow" />
 <img src="https://img.shields.io/badge/C++-20-blue?logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Android%20Studio-Kotlin-green?logo=androidstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-21-orange?logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/NetBeans-22-yellow?logo=netbeans&logoColor=black" />
 <img src="https://img.shields.io/badge/Unity-2023-grey?logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-2.0-blue?logo=arduino&logoColor=white" />
 
-#### 🛡️ Seguridad & Redes
-<img src="https://img.shields.io/badge/Packet%20Tracer-red?logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/NIST-red?logo=nist&logoColor=white" />
-<img src="https://img.shields.io/badge/ISO_27001-blue?logo=iso&logoColor=white" />
-<img src="https://img.shields.io/badge/NERC-blueviolet?logo=standards&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali-2024-red?logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Auditoria_TI-orange?logo=shield&logoColor=white" />
-
-#### 📊 Gestión & Metodologías
+#### 📊 Gestión Ágil
+<img src="https://img.shields.io/badge/Scrum-Certified-brightgreen?logo=scrum&logoColor=white" />
 <img src="https://img.shields.io/badge/UML-C4-purple?logo=uml&logoColor=white" />
-<img src="https://img.shields.io/badge/Scrum-Certified-brightgreen?logo=scrum&logoColor=white" />
 <img src="https://img.shields.io/badge/Kanban-Lean-blue?logo=kanban&logoColor=white" />
-<img src="https://img.shields.io/badge/PMBOK-7th-purple?logo=project-management&logoColor=white" />
-<img src="https://img.shields.io/badge/IEEE_830-blue?logo=ieee&logoColor=white" />
-
-
-
-#### 🎨 Adobe & Office Suite
-<img src="https://img.shields.io/badge/Photoshop-CC-purple?logo=adobe-photoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Illustrator-CC-orange?logo=adobe-illustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/InDesign-CC-pink?logo=adobe-indesign&logoColor=white" />
-<img src="https://img.shields.io/badge/Dreamweaver-CC-blue?logo=adobe-dreamweaver&logoColor=white" />
-<img src="https://img.shields.io/badge/Office-365-green?logo=microsoft-office&logoColor=white" />
-
-#### 🏃‍♂️ Metodologías Ágiles & Gestión
-<img src="https://img.shields.io/badge/Scrum-Certified-brightgreen?logo=scrum&logoColor=white" />
-<img src="https://img.shields.io/badge/Kanban-Lean-blue?logo=kanban&logoColor=white" />
-<img src="https://img.shields.io/badge/PMBOK-7th-purple?logo=project-management&logoColor=white" />
-<img src="https://img.shields.io/badge/IEEE_830-blue?logo=ieee&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-orange?logo=trello&logoColor=white" />
-<img src="https://img.shields.io/badge/Asana-blue?logo=asana&logoColor=white" />
-<img src="https://img.shields.io/badge/Miro-green?logo=miro&logoColor=black" />
 
-#### ⚙️ IDEs & Productividad
+#### 🎨 Diseño & Productividad
+<img src="https://img.shields.io/badge/Photoshop-CC-purple?logo=adobe-photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-pink?logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-1.87-blue?logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-2024-blue?logo=pycharm&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-pink?logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-6.5-blue?logo=wordpress&logoColor=white" />
 
 </details>
+
+
 
 <details>
 <summary><b>🕹️ [ SISTEMA_OPERATIVO ]</b></summary>
@@ -123,5 +98,6 @@ Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades<
 
 <div align="center">
   <br /><br />
-  <blockquote><i>"Existen dos errores en el camino a la maestría: no empezar y no llegar hasta el final."</i> — <b>Shi Heng Yi</b></blockquote>
+  <blockquote>"<i>Un viaje de mil millas comienza con un solo paso</i>" — <b>Lao Tsé</b></blockquote>
 </div>
+
