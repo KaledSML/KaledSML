@@ -12,12 +12,24 @@
 ---
 
 <details open>
-<summary><b>🧬 [ PERFIL_ESTRATÉGICO ]</b></summary>
+<summary><b>🧬 [ PERFIL_ESTRATÉGICO_Y_SISTEMA ]</b></summary>
 <br />
-¡Hola! Soy <b>Kaled</b>. Mi enfoque profesional se basa en <b>humanizar la tecnología</b>. Creo que la ingeniería debe ser un puente hacia el bienestar y la equidad, priorizando la <b>Seguridad por Diseño (Privacy by Design)</b> por encima de la sobreexposición de datos.
 
-Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades</b>, transformando problemas complejos en soluciones estructuradas con una visión pragmática orientada a la eficiencia.
+¡Hola! Soy <b>Kaled</b>. Mi motor es <b>humanizar la tecnología</b>. Creo que la ingeniería debe ser un puente hacia el bienestar, donde la <b>Seguridad por Diseño</b> sea la norma y no la excepción. Me gusta simplificar lo complejo y encontrar soluciones que realmente ayuden a las personas, siempre con una mirada pragmática y eficiente.
+<br /><br />
+Esta es la configuración detrás de mi trabajo y de mi curiosidad por conocer el mundo:
+<ul>
+  <li><b>🧠 Mente (Disciplina y Exploración):</b> Mi deseo de aprender me ha llevado a ser una <b>políglota en formación</b> (Español <code>Nativo</code> | Francés | Inglés | 中文). Me apoyo en el <b>Qigong Shaolin</b> y la filosofía <b>Kaizen</b> para mantener la claridad necesaria para liderar equipos con empatía y adaptarme a nuevos desafíos globales.</li>
+  <br />
+  <li><b>🎨 Alma (Detalle y Creatividad):</b> Con base en el <b>Diseño Gráfico</b> y la <b>Gastronomía</b>, aprendí que la excelencia está en los detalles. Busco que la tecnología no solo sea funcional, sino también una experiencia humana, agradable y con propósito.</li>
+  <br />
+  <li><b>🛡️ Escudo (Ética y Seguridad):</b> Como ex practicante de auditora TI en <b>Enel</b>, mi compromiso es con la <b>privacidad</b> y la <b>sobriedad digital</b>. Mi valor reside en la excelencia técnica orientada a proteger la integridad de los datos y la seguridad del usuario.</li>
+</ul>
 </details>
+
+
+
+
 
 <details>
 <summary><b>🛠️ [ TECH_STACK_COMPLETO ]</b></summary>
@@ -62,15 +74,6 @@ Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades<
 
 
 
-<details>
-<summary><b>🕹️ [ SISTEMA_OPERATIVO ]</b></summary>
-<br />
-<ul>
-  <li><b>🧠 Mente:</b> Disciplina de <b>Qigong Shaolin</b> y enfoque <b>Kaizen</b>. Gestión del estrés y claridad estratégica.</li>
-  <li><b>🎨 Alma:</b> Base en <b>Diseño Gráfico</b> y <b>Gastronomía</b>. Detallista en la ejecución y orientada a la experiencia del usuario..</li>
-  <li><b>🛡️ Escudo:</b> Auditoría TI (Ex-Practicante de Auditoría en Enel). Compromiso con la ética de datos y la ciberseguridad.</li>
-</ul>
-</details>
 
 <details>
 <summary><b>📂 [ PROYECTOS_SELECCIONADOS ]</b></summary>
@@ -81,16 +84,6 @@ Poseo una capacidad natural para el <b>diagnóstico estratégico de necesidades<
   <li>🛡️ <b><a href="https://github.com/KaledSML/SPMG-Arduino-Safety-System">SPMG Arduino Safety System</a>:</b> Hardware preventivo doméstico.</li>
   <li>🏨 <b><a href="https://github.com/KaledSML/veranum-hotel-management">Veranum Hotel Management</a>:</b> Transformación digital y optimización de gestión hotelera 360°.</li>
   <li>🌶️ <b><a href="https://github.com/KaledSML/pymenton-edtech-platform">Pymenton EdTech Platform</a>:</b> Inclusión digital para el emprendimiento local.</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🌍 [ CONEXIONES_Y_LOGS ]</b></summary>
-<br />
-<ul>
-  <li><b>Perfil Global:</b> Políglota en formación (Español <code>Nativo</code> | Francés | Inglés | 中文 .</li>
-  <li><b>Liderazgo:</b> Gestión de equipos basada en la empatía y la identificación de fortalezas individuales.</li>
-  <li><b>Privacidad:</b> Defensora de la sobriedad digital; mi valor profesional reside en la excelencia técnica.</li>
 </ul>
 </details>
 
