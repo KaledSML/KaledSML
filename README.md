@@ -92,22 +92,46 @@ Mi ética es **innegociable**: priorizo la **privacidad y la sobriedad digital**
 
 </details>
 
-</details>
 
 
-
+ 
 <summary><b>📂 [ PROYECTOS_SELECCIONADOS ]</b></summary>
 <br />
-<div align="center">
+<ul>
+<p align="center">
+  <a href="https://github.com/KaledSML/Mishi-HealthTech-App">
+    <img src="https://img.shields.io/badge/Mishi-HealthTech-00D4AA?style=for-the-badge&logo=unity&logoColor=white" alt="Mishi HealthTech App" />
+  </a>
+  <a href="https://github.com/KaledSML/Applied-Data-Science">
+    <img src="https://img.shields.io/badge/Data%20Science-Predictive%20Models-FF6B35?style=for-the-badge&logo=python&logoColor=white" alt="Applied Data Science" />
+  </a>
+  <a href="https://github.com/KaledSML/SPMG-Arduino-Safety-System">
+    <img src="https://img.shields.io/badge/SPMG-Arduino%20Safety-E74C3C?style=for-the-badge&logo=arduino&logoColor=white" alt="SPMG Arduino Safety System" />
+  </a>
+  <a href="https://github.com/KaledSML/veranum-hotel-management">
+    <img src="https://img.shields.io/badge/Veranum-Hotel%20Management-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Veranum Hotel Management" />
+  </a>
+  <a href="https://github.com/KaledSML/pymenton-edtech-platform">
+    <img src="https://img.shields.io/badge/Pymenton-EdTech%20Platform-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Pymenton EdTech Platform" />
+  </a>
+</p>
 
-🐾 <b><a href="https://github.com/KaledSML/Mishi-HealthTech-App">Mishi HealthTech App</a>:</b> IA y gamificación para salud mental.<br>
-🧪 <b><a href="https://github.com/KaledSML/Applied-Data-Science">Applied Data Science</a>:</b> Modelado predictivo de alta fidelidad (Energía y Salud)<br>
-🛡️ <b><a href="https://github.com/KaledSML/SPMG-Arduino-Safety-System">SPMG Arduino Safety System</a>:</b> Hardware preventivo doméstico.<br>
-🏨 <b><a href="https://github.com/KaledSML/veranum-hotel-management">Veranum Hotel Management</a>:</b> Transformación digital y optimización de gestión hotelera 360°.<br>
-🌶️ <b><a href="https://github.com/KaledSML/pymenton-edtech-platform">Pymenton EdTech Platform</a>:</b> Inclusión digital para el emprendimiento local.
 
-</div>
+</ul>
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
