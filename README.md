@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://kaledsml.github.io">
-    <img src="https://img.shields.io" alt="Portafolio de Kaled SML" />
+    <img src="https://img.shields.io/badge/Portfolio-kaledsml-blue?style=for-the-badge&logo=github" alt="Portafolio de Kaled SML" />
   </a>
   <a href="https://youtube.com/@kaledsml">
-    <img src="https://img.shields.io" alt="Canal de YouTube Kaled SML" />
+    <img src="https://img.shields.io/badge/YouTube-kaledsml-red?style=for-the-badge&logo=youtube" alt="Canal de YouTube Kaled SML" />
   </a>
 </p>
-<br /><br />
+
 
 <p align="center">
   <i>"Humanizar la tecnología: Ingeniería con propósito, seguridad y bienestar."</i>
