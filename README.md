@@ -94,10 +94,11 @@ Mi ética es **innegociable**: priorizo la **privacidad y la sobriedad digital**
 
 
 
- 
-<summary><b>📂 [ PROYECTOS_SELECCIONADOS ]</b></summary>
+ <details>
+  <summary><b>📂 [ PROYECTOS_SELECCIONADOS ]</b></summary>
+
 <br />
-<ul>
+
 <p align="center">
   <a href="https://github.com/KaledSML/Mishi-HealthTech-App">
     <img src="https://img.shields.io/badge/Mishi-HealthTech-00D4AA?style=for-the-badge&logo=unity&logoColor=white" alt="Mishi HealthTech App" />
@@ -116,8 +117,6 @@ Mi ética es **innegociable**: priorizo la **privacidad y la sobriedad digital**
   </a>
 </p>
 
-
-</ul>
 </details>
 
 
