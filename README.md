@@ -3,6 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=17115C&center=true&vCenter=true&width=435&lines=🐯+KALED_SML;Software+Engineer+%7C+Data+%26+Privacy;+Wellness+Strategist" alt="Typing SVG" />
 </div>
 
+# Kaled San Martín Lastra | Software Engineer & Data Specialist
+
+<p align="center">
+  <a href="https://kaledsml.github.io">
+    <img src="https://img.shields.io" alt="Portafolio de Kaled SML" />
+  </a>
+  <a href="https://youtube.com/@kaledsml">
+    <img src="https://img.shields.io" alt="Canal de YouTube Kaled SML" />
+  </a>
+</p>
 <br /><br />
 
 <p align="center">
