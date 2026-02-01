@@ -138,5 +138,8 @@ Mi ética es **innegociable**: priorizo la **privacidad y la sobriedad digital**
 <div align="center">
   <br /><br />
   <blockquote>"<i>Un viaje de mil millas comienza con un solo paso</i>" — <b>Lao Tsé</b></blockquote>
+<p><b>Kaled San Martin Lastra</b> | @KaledSML</p>
+</div>
+
   
 </div>
