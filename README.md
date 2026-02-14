@@ -1,64 +1,46 @@
 <div align="center">
 
-<p align="center">
-  <code><b>[ IDENTITY: KALED_SML ]</b></code> 
-  <code><b>[ DEPLOYMENT: CYBERSECURITY_&_R+D+i ]</b></code> 
-</p>
+# 🐯 `KALED_SML` 
+### ⚡ SECURITY_ENGINEER // R+D+i_SPECIALIST // QI_GONG_FLOW
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🐯+KALED_SML;>+CYBERSECURITY_ENGINEER;>+R%2BD%2Bi_SPECIALIST;>+ADAPTIVE_LEADERSHIP" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=%3E+CYBER_DEFENSE_PROTOCOL;%3E+ADAPTIVE_LEADERSHIP;%3E+RESEARCH_%26_INNOVATION)
 
-<br />
+---
 
-<p>
-  <a href="https://kaledsml.github.io"><img src="https://img.shields.io/badge/--NETWORK_PORTFOLIO--1f6feb?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://youtube.com/@kaledsml"><img src="https://img.shields.io/badge/--LOG_STREAM--da3633?style=flat-square&logo=youtube&logoColor=white" /></a>
-</p>
+| 🟢 STATUS: ONLINE | 🔐 ACCESS: ROOT | 🧬 MODE: BALANCED |
+| :--- | :---: | ---: |
 
-<hr style="background-color: #30363d; height: 1px; border: none;" />
+---
 
-<h3><b>// TECHNICAL_LAYERS</b></h3>
+### 🔌 NEURAL_STACK (Languages & Tools)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)
+[![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com)
+[![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://microsoft.com/sql-server)
+[![Unity](https://img.shields.io/badge/Unity_3D-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity_3D-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+---
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="left" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
-      <span style="color: #58A6FF; font-family: monospace;"><b>> SHIELD_PROTOCOLS</b></span><br />
-      <small>
-        • NIST CSF 2.0 | NERC-CIP | ISO 27001<br />
-        • Auditoría TI & Ciberseguridad Defensiva<br />
-        • Nmap | OWASP | Seguridad de Datos
-      </small>
-    </td>
-    <td width="50%" align="left" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
-      <span style="color: #d2a8ff; font-family: monospace;"><b>> PROJECT_CORE</b></span><br />
-      <small>
-        • Gestión I+D+i (I-D-i)<br />
-        • PMBOK | Scrum | Kanban | Lean<br />
-        • Liderazgo Adaptativo de Equipos
-      </small>
-    </td>
-  </tr>
-</table>
+### 🛡️ DEFENSIVE_MATRIX (Security & Compliance)
+`NIST CSF 2.0` • `NERC-CIP` • `ISO 27001` • `OWASP` • `NMAP` • `AUDIT_TI`
 
-<br />
+### ⚙️ MANAGEMENT_LOGIC (PMBOK & Agile)
+`I+D+i Management` • `Scrum` • `Kanban` • `Lean` • `C4 Diagrams` • `UML`
 
-<p align="center">
-  <code><b>DESIGN_STACK:</b> Figma | Ps | Ai | Id | UI/UX</code> <br />
-  <code><b>GLOBAL_COMM:</b> English (Int) | Français (Bas) | 中文 (Intro)</code>
-</p>
+---
 
-<p align="center">
-  <i>"Equilibrando la arquitectura del código con el flujo del QiGong."</i>
-</p>
+### 🎨 CREATIVE_SUBSYSTEM
+`FIGMA` | `PHOTOSHOP` | `ILLUSTRATOR` | `INDESIGN` | `UI/UX`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=50&section=footer" width="100%" />
+### 🌐 GLOBAL_COMMUNICATIONS
+`English: INTERMEDIATE` | `Français: BASIC` | `Mandarin: INTRO`
+
+---
+
+> *"En la quietud del QiGong, el código fluye; en el caos de los datos, la mente se centra."*
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=100&section=footer&text=ACCESSING_CORE_PROJECTS...&fontSize=20&fontAlignY=70)
 
 </div>
