@@ -49,7 +49,7 @@
         <img src="https://skillicons.dev/icons?i=figma,ps,ai,id,wordpress,canva" />
       </p>
       <p align="left" style="color: #C77DFF; font-family: monospace; font-size: 14px;">
-        • <b>DESIGN:</b> UI/UX (Figma) • <b>Dreamweaver Legacy</b> <br>
+        • <b>DESIGN:</b> UI/UX (Figma) • Web Design (Dreamweaver) <br>
         • <b>STRATEGY:</b> Digital Marketing • PMBOK • Scrum
       </p>
     </td>
