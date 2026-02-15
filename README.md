@@ -21,12 +21,10 @@
 <table border="0" cellpadding="20" cellspacing="0" width="100%">
   <tr>
     <td width="100%" bgcolor="#0d1117" style="border-radius: 15px; border: 2px solid #7B2CBF;">
-      <h2 align="left" style="color: #E0AAFF; font-family: 'Courier New'; display: flex; align-items: center;">
-        🛡️ CORE_SYSTEMS (Eng | Cyber | Data)
-      </h2>
+      <h2 align="left" style="color: #E0AAFF; font-family: 'Courier New';">🛡️ CORE_SYSTEMS (Eng | Cyber | Data)</h2>
       <hr color="#240046" />
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,r,cs,dotnet,sqlserver,docker,linux,bash" />
+        <img src="https://skillicons.dev/icons?i=python,r,cs,unity,sqlserver,docker,linux,bash" />
       </p>
       <p align="left" style="color: #C77DFF; font-family: monospace; font-size: 14px;">
         <b>CYBERSECURITY:</b> NIST CSF 2.0 • ISO 27001 • NERC-CIP • IT AUDIT <br>
@@ -41,15 +39,13 @@
 <table border="0" cellpadding="20" cellspacing="0" width="100%">
   <tr>
     <td width="100%" bgcolor="#0d1117" style="border-radius: 15px; border: 2px solid #9D4EDD;">
-      <h2 align="left" style="color: #E0AAFF; font-family: 'Courier New';">
-        🎨 CREATIVE_DRIVE (UX | Mkt | Mgmt)
-      </h2>
+      <h2 align="left" style="color: #E0AAFF; font-family: 'Courier New';">🎨 CREATIVE_DRIVE (UX | Mkt | Mgmt)</h2>
       <hr color="#240046" />
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=figma,ps,ai,id,wordpress,ae" />
+        <img src="https://skillicons.dev/icons?i=figma,ps,ai,id,wordpress,canva" />
       </p>
       <p align="left" style="color: #C77DFF; font-family: monospace; font-size: 14px;">
-        <b>DESIGN:</b> UI/UX Design • Digital Marketing • <b>Dreamweaver Legacy</b> <br>
+        <b>DESIGN:</b> UI/UX Design (Figma) • Digital Marketing • <b>Dreamweaver Legacy</b> <br>
         <b>MANAGEMENT:</b> PMBOK • SCRUM • ASANA • TRELLO
       </p>
     </td>
