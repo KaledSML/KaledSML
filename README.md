@@ -32,7 +32,6 @@
       </p>
       <p align="left" style="color: #C77DFF; font-family: monospace; font-size: 14px;">
         • <b>CYBERSECURITY:</b> NIST CSF 2.0 • ISO 27001 • IT AUDIT <br>
-        • <b>DATA ANALYTICS:</b> RStudio Specialist • Statistical Analysis
       </p>
     </td>
   </tr>
