@@ -1,4 +1,4 @@
-<div align="center"><img src="assets/soft-tiger-banner.png" width="100%" alt="Ilustración pastel de un tigre entre lavanda y tonos melocotón" />Kaled SML 🐅
+<div align="center"><img src="file_00000000b214820eb5c174595247ea4f.png" width="100%" alt="Ilustración pastel de un tigre entre lavanda y tonos melocotón" />Kaled SML 🐅
 
 Ingeniera Informática · Licenciada en Ciencias de la Ingeniería
 
