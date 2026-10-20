@@ -54,7 +54,7 @@ Una herramienta web para organizar evaluaciones basadas en NIST CSF 2.0, registr
 
 `JavaScript` `HTML` `CSS` `NIST CSF 2.0`
 
-### 🐈 Pudin: The Ghost Cat RPA — Automatización con personalidad
+### 🐈 Pudin: The Ghost Cat RPA — Automatización con personalidad gatuna
 
 Una mascota naranja de escritorio que sigue el cursor, deja huellitas, reacciona a ciertas aplicaciones y hace travesuras digitales. Un experimento de Python con más personalidad de la estrictamente necesaria.
 
