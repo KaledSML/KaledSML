@@ -1,11 +1,9 @@
 
 <div align="center">
 
-<img src="assets/soft-tiger-banner.png" width="85%" alt="Tigre entre tonos pastel" />
+### ✦ INGENIERÍA · CREATIVIDAD · CURIOSIDAD ✦
 
-<br>
-
-# 🐯 Kaled SML
+# Kaled SML 🐯
 
 *Ideas que se convierten en proyectos, con un poquito de caos creativo.*
 
