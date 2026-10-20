@@ -1,89 +1,105 @@
-<div align="center">
+ <div align="center">
 
-<img src="assets/soft-tiger-banner.png" width="100%" alt="Ilustración pastel de un tigre entre lavanda y tonos melocotón" />
-
-<br/>
+<img src="assets/soft-tiger-banner.png" width="100%" alt="Tigre entre tonos pastel" />
 
 # 🐅 Kaled SML
 
-### *Ingeniería, curiosidad y un poquito de caos creativo.*
+### ✿ Ingeniería · Creatividad · Curiosidad
 
-**Ingeniera Informática · Licenciada en Ciencias de la Ingeniería**
+*Ideas que se convierten en proyectos, con un poquito de caos creativo.*
 
-🌷 Construyo proyectos para resolver problemas, explorar ideas y aprender haciendo.
+[![Portafolio](https://img.shields.io/badge/🌷_Portafolio-EEE6F7?style=for-the-badge)](https://kaledsml.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-E8E8ED?style=for-the-badge&logo=github&logoColor=333333)](https://github.com/KaledSML)
+[![YouTube](https://img.shields.io/badge/YouTube-F8DFE5?style=for-the-badge&logo=youtube&logoColor=C4302B)](https://www.youtube.com/@KaledSML)
 
-<br/>
-
-<a href="https://kaledsml.github.io/">🌐 Portafolio</a> &nbsp;·&nbsp;
-<a href="https://github.com/KaledSML">💻 GitHub</a> &nbsp;·&nbsp;
-<a href="https://www.youtube.com/@KaledSML">🎥 YouTube</a>
-
-<br/>
-
-✿ ･ﾟ･ ✿ ･ﾟ･ ✿
+🎓 **Ingeniera Informática** · Licenciada en Ciencias de la Ingeniería
 
 </div>
 
-<br/>
-
-## ✿ Un poco de lo que hago
-
-Me gusta llevar las ideas a algo tangible: investigar, diseñar, programar, probar y documentar. Mis proyectos van desde herramientas de ciberseguridad hasta experimentos con Python, interfaces y mundos virtuales.
-
-<br/>
-
-## 🧸 Proyectos seleccionados
-
-### 🪷 Mishi · IA, gamificación y bienestar universitario
-
-> Proyecto de tesis que integra un entorno 3D, interacción con IA y mecánicas de autocuidado. Desarrollado como MVP académico; el código fuente no es público.
->
-> [Galería del proyecto](https://kaledsml.github.io/Mishi-HealthTech-App/) · [Repositorio](https://github.com/KaledSML/Mishi-HealthTech-App)
-
-### 🛡️ NIST Sentinel · Auditoría de ciberseguridad
-
-> Herramienta web para organizar evaluaciones basadas en NIST CSF 2.0, registrar evidencias y generar informes.
->
-> [Demo web](https://kaledsml.github.io/nist-sentinel/) · [Repositorio](https://github.com/KaledSML/nist-sentinel) · [YouTube](https://www.youtube.com/watch?v=MbYpAKBpVT4)
-
-### 🐈 Pudin: The Ghost Cat RPA · Python y Windows
-
-> Una mascota naranja de escritorio con animaciones, máquina de estados y automatizaciones traviesas.
->
-> [Ver proyecto y descargar](https://kaledsml.github.io/Pudin-Ghost-Cat-RPA/) · [Repositorio](https://github.com/KaledSML/Pudin-Ghost-Cat-RPA) · [YouTube](https://youtu.be/UMO3PvRJNPc)
-
-### 🐙 Seal of R’lyeh · Criptografía y experimentación
-
-> Un proyecto en desarrollo que explora el cifrado de archivos y la gestión de una bóveda desde la terminal. Horror cósmico bajo licencia MIT.
->
-> [Repositorio](https://github.com/KaledSML/Seal-Of-Rlyeh)
-
-<br/>
-
-## 🌱 Formación y reconocimientos
-
-- 🎓 Ingeniería Informática y Licenciatura en Ciencias de la Ingeniería; Distinción Unánime en la licenciatura.
-- 🏆 Primer lugar en el desafío de innovación NTT DATA–UBO.
-- 🌎 Finalista internacional de AUF, entre los 10 proyectos seleccionados.
-- ✨ Formación complementaria en IA, Azure, Cisco, ciberseguridad y metodologías ágiles.
-
-<br/>
+---
 
 <div align="center">
 
-✿ ･ﾟ･ ✿ ･ﾟ･ ✿
+## 🌸 Un poco sobre mí
 
-### 💌 ¿Encontramos un punto en común?
+</div>
 
-<a href="https://kaledsml.github.io/">Portafolio</a> &nbsp;·&nbsp;
-<a href="https://github.com/KaledSML">GitHub</a> &nbsp;·&nbsp;
-<a href="https://www.youtube.com/@KaledSML">YouTube</a> &nbsp;·&nbsp;
-<a href="mailto:kaledsanmartinlastra@gmail.com">Correo</a>
+Me gusta explorar ideas y convertirlas en cosas tangibles: investigar, diseñar, programar, probar y documentar. Mis proyectos mezclan tecnología, resolución de problemas y experimentación; desde herramientas de ciberseguridad hasta mascotas digitales y mundos virtuales.
 
-<br/>
+---
 
-*Hecho con curiosidad, café y algún que otro gato.* 🌷
+<div align="center">
 
-🐅
+## 🧸 Mi pequeño universo de proyectos
+
+*Cada proyecto, una idea distinta.*
+
+</div>
+
+### 🪷 Mishi — Bienestar e inteligencia artificial
+
+Un proyecto de tesis que combina un entorno 3D, interacción con IA y misiones gamificadas de autocuidado para estudiantes universitarios. Desarrollado como MVP académico; el código fuente no es público.
+
+[![Explorar proyecto](https://img.shields.io/badge/🌷_Galería-EDE4F7?style=flat-square)](https://kaledsml.github.io/Mishi-HealthTech-App/)
+[![Repositorio](https://img.shields.io/badge/Repositorio-E8E8ED?style=flat-square&logo=github&logoColor=333333)](https://github.com/KaledSML/Mishi-HealthTech-App)
+
+`Unity` `IA` `Gamificación` `Salud digital`
+
+### 🛡️ NIST Sentinel — Auditoría de ciberseguridad
+
+Una herramienta web para organizar evaluaciones basadas en NIST CSF 2.0, registrar evidencias y generar informes. Nació de querer hacer más práctico el trabajo de auditoría.
+
+[![Probar demo](https://img.shields.io/badge/✨_Demo-F8DFE5?style=flat-square)](https://kaledsml.github.io/nist-sentinel/)
+[![Repositorio](https://img.shields.io/badge/Repositorio-E8E8ED?style=flat-square&logo=github&logoColor=333333)](https://github.com/KaledSML/nist-sentinel)
+[![Ver video](https://img.shields.io/badge/▶_Video-F6E4D6?style=flat-square)](https://www.youtube.com/watch?v=MbYpAKBpVT4)
+
+`JavaScript` `HTML` `CSS` `NIST CSF 2.0`
+
+### 🐈 Pudin: The Ghost Cat RPA — Automatización con personalidad
+
+Una mascota naranja de escritorio que sigue el cursor, deja huellitas, reacciona a ciertas aplicaciones y hace travesuras digitales. Un experimento de Python con más personalidad de la estrictamente necesaria.
+
+[![Ver proyecto](https://img.shields.io/badge/🐾_Proyecto-F8DFE5?style=flat-square)](https://kaledsml.github.io/Pudin-Ghost-Cat-RPA/)
+[![Repositorio](https://img.shields.io/badge/Repositorio-E8E8ED?style=flat-square&logo=github&logoColor=333333)](https://github.com/KaledSML/Pudin-Ghost-Cat-RPA)
+[![Ver demo](https://img.shields.io/badge/▶_YouTube-F6E4D6?style=flat-square)](https://youtu.be/UMO3PvRJNPc)
+
+`Python` `Pygame` `Windows API` `RPA`
+
+### 🐙 Seal of R’lyeh — Criptografía experimental
+
+Un experimento en desarrollo sobre cifrado de archivos y gestión de una bóveda desde la terminal. Inspiración cósmica, herramientas criptográficas y una pizca de horror.
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-E8E8ED?style=flat-square&logo=github&logoColor=333333)](https://github.com/KaledSML/Seal-Of-Rlyeh)
+
+`Python` `Fernet` `Criptografía` `CLI`
+
+---
+
+<div align="center">
+
+## 🏆 Formación y reconocimientos
+
+</div>
+
+- 🎓 **Ingeniería Informática** y Licenciatura en Ciencias de la Ingeniería — Distinción Unánime en la licenciatura.
+- 🥇 **Primer lugar**, desafío de innovación NTT DATA–UBO.
+- 🌎 **Finalista internacional** de AUF, entre los 10 proyectos seleccionados.
+- 🧠 Formación complementaria en inteligencia artificial, Azure, Cisco, ciberseguridad y metodologías ágiles.
+
+---
+
+<div align="center">
+
+### 🌷 Siempre explorando algo nuevo
+
+*Gracias por pasar por mi rincón de internet.*
+
+[![Portafolio](https://img.shields.io/badge/🌐_Visita_mi_portafolio-EDE4F7?style=for-the-badge)](https://kaledsml.github.io/)
+[![GitHub](https://img.shields.io/badge/Explora_mis_proyectos-E8E8ED?style=for-the-badge&logo=github&logoColor=333333)](https://github.com/KaledSML)
+[![Correo](https://img.shields.io/badge/Escríbeme-F8DFE5?style=for-the-badge&logo=gmail&logoColor=C4302B)](mailto:kaledsanmartinlastra@gmail.com)
+
+*Hecho con curiosidad, café y algún que otro gato.* ☕🐈
+
+**🐅 ✿**
 
 </div>
