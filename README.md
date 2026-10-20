@@ -51,7 +51,6 @@ Una herramienta web para organizar evaluaciones basadas en NIST CSF 2.0, registr
 
 [![Probar demo](https://img.shields.io/badge/✨_Demo-F8DFE5?style=flat-square)](https://kaledsml.github.io/nist-sentinel/)
 [![Repositorio](https://img.shields.io/badge/Repositorio-E8E8ED?style=flat-square&logo=github&logoColor=333333)](https://github.com/KaledSML/nist-sentinel)
-[![Ver video](https://img.shields.io/badge/▶_Video-F6E4D6?style=flat-square)](https://www.youtube.com/watch?v=MbYpAKBpVT4)
 
 `JavaScript` `HTML` `CSS` `NIST CSF 2.0`
 
@@ -61,7 +60,6 @@ Una mascota naranja de escritorio que sigue el cursor, deja huellitas, reacciona
 
 [![Ver proyecto](https://img.shields.io/badge/🐾_Proyecto-F8DFE5?style=flat-square)](https://kaledsml.github.io/Pudin-Ghost-Cat-RPA/)
 [![Repositorio](https://img.shields.io/badge/Repositorio-E8E8ED?style=flat-square&logo=github&logoColor=333333)](https://github.com/KaledSML/Pudin-Ghost-Cat-RPA)
-[![Ver demo](https://img.shields.io/badge/▶_YouTube-F6E4D6?style=flat-square)](https://youtu.be/UMO3PvRJNPc)
 
 `Python` `Pygame` `Windows API` `RPA`
 
