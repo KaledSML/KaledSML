@@ -2,9 +2,9 @@
 
 <img src="assets/soft-tiger-banner.png" width="100%" alt="Tigre entre tonos pastel" />
 
-# 🐅 Kaled SML
+# 🐯 Kaled SML 
 
-### ✿ Ingeniería · Creatividad · Curiosidad
+### ✿ Ingeniería ✿ Creatividad ✿ Curiosidad
 
 *Ideas que se convierten en proyectos, con un poquito de caos creativo.*
 
@@ -36,7 +36,7 @@ Me gusta explorar ideas y convertirlas en cosas tangibles: investigar, diseñar,
 
 </div>
 
-### 🪷 Mishi — Bienestar e inteligencia artificial
+### 🐱 Mishi — Bienestar e inteligencia artificial
 
 Un proyecto de tesis que combina un entorno 3D, interacción con IA y misiones gamificadas de autocuidado para estudiantes universitarios. Desarrollado como MVP académico; el código fuente no es público.
 
@@ -98,7 +98,7 @@ Un experimento en desarrollo sobre cifrado de archivos y gestión de una bóveda
 [![GitHub](https://img.shields.io/badge/Explora_mis_proyectos-E8E8ED?style=for-the-badge&logo=github&logoColor=333333)](https://github.com/KaledSML)
 [![Correo](https://img.shields.io/badge/Escríbeme-F8DFE5?style=for-the-badge&logo=gmail&logoColor=C4302B)](mailto:kaledsanmartinlastra@gmail.com)
 
-*Hecho con curiosidad, café y algún que otro gato.* ☕🐈
+*Hecho con curiosidad, té y algún que otro gato.* ☕🐈
 
 **🐅 ✿**
 
