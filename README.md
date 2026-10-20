@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="assets/soft-tiger-banner.png" width="100%" alt="Tigre entre tonos pastel" />
+<img src="assets/soft-tiger-banner.png" width="85%" alt="Tigre entre tonos pastel" />
+
+<br>
 
 # 🐯 Kaled SML
 
